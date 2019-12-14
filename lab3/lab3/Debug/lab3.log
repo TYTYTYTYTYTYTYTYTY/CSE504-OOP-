@@ -1,0 +1,9 @@
+﻿  gameBoard.cpp
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(115,21): warning C4018:  '<': signed/unsigned mismatch
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(116,7): warning C4302:  '<function-style-cast>': truncation from 'const char *' to 'char'
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(117,23): warning C4302:  '<function-style-cast>': truncation from 'const char *' to 'char'
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(134,8): warning C4804:  '<': unsafe use of type 'bool' in operation
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(134,97): warning C4804:  '<=': unsafe use of type 'bool' in operation
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(91,15): warning C4101:  'input_x': unreferenced local variable
+H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\lab3\gameBoard.cpp(92,15): warning C4101:  'input_y': unreferenced local variable
+  lab3.vcxproj -> H:\504git\lab3-TYTYTYTYTYTYTYTYTY\lab3\Debug\lab3.exe
